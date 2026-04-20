@@ -1,0 +1,9 @@
+name1='faris'
+print(name1)
+age=20
+print(age)
+print(type(name1))
+print(type(age))
+print(float(age))
+var1='4567'
+print(float(var1))
